@@ -1,0 +1,123 @@
+body{
+    background: linear-gradient(#01012a,#181950);
+}
+
+.main-bg{
+    background: linear-gradient(#01012a,#181950);
+
+}
+.card{
+    height: 100%;
+   
+ width: 100%;
+}
+.iphone14
+{
+    background: linear-gradient(#f5f0ff,#f5f0ff);
+    border: 0;
+}
+.watch-s8{
+    background: linear-gradient(#524570,#453961);
+}
+.card-ipad{
+    background: linear-gradient( #3b4582, #31396d);
+
+}
+.img-home{
+    width: 587px;
+    aspect-ratio: auto 587 / 792;
+    height: 792px;
+}
+p{
+    font-size: 24px;
+    line-height: 1.33341;
+    font-weight: 400;
+    letter-spacing: .009em;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue",Helvetica,Arial,sans-serif;
+    color: #f5f5f7;
+    margin-top: 11px;
+}
+h2{
+    font-size: 80px;
+    line-height: 1.05;
+    font-weight: 600;
+    letter-spacing: -.015em;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue",Helvetica,Arial,sans-serif;
+    color: #f5f5f7;
+    margin-top: 12px;
+}
+.navbar{
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 5;
+}
+.cards{
+    margin-top: -300px;
+}
+.img-iphone{
+    width: auto;
+    object-fit: cover;
+    height: 500px;
+}
+
+.colors{
+
+display: flex;
+justify-content: center;
+
+}
+.color{
+    width: 15px;
+    height: 15px;
+    margin: 0 10px;
+    border-radius: 50%;
+    
+
+}
+.color:nth-child(1){
+    background-color: #f5f5f7;
+}
+.color:nth-child(2){
+    background-color: #3030b9;
+}
+.color:nth-child(3){
+    background-color: #dd0f0f;
+}
+.color:nth-child(4){
+    background-color: #0f792a;
+}
+.color:nth-child(5){
+    background-color: #d45810;
+}
+
+.macbook{
+    background-color: #ecefff;
+    
+}
+.text-card{
+    color: #524570;
+}
+.text-c{
+    color: #5051a5;
+}
+.card-mac{
+    background-position: bottom center;
+    background-size: cover;
+    background-image: url(../imgs/holiday-spot-macbook-202211.jfif) ;
+}
+.navlink{
+    color: white;
+}
+.active{
+    border-bottom: 1px solid #f5f5f7;
+}
+.links ul li a{
+color: white;
+font-size: 17px;
+font-weight: 600;
+text-align: center;
+padding: 20px;
+margin: 20px;
+white-space: nowrap;
+}
